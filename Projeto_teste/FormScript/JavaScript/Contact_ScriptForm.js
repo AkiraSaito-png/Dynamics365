@@ -1,0 +1,3 @@
+﻿function showmenssage() {
+    alert('Hello');
+}
